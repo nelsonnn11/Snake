@@ -29,5 +29,6 @@ function update()
 // Draw/Render the snake and food
 function draw()
 {
+  gameBoard.innerHTML = '';
   drawSnake(gameBoard);
 }
