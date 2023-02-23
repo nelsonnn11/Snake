@@ -18,10 +18,7 @@ body {
   }
 
   .snake {
-    background-color: hsl(46, 100%, 58%);
     border: .25vmin solid rgb(0, 0, 0);
-    background: linear-gradient(-45deg, #7107eb, #A663CC, #152ae2, #1476e6);
-    animation: gradient 15s ease infinite;
   }
   
 
